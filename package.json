@@ -1,0 +1,27 @@
+{
+  "name": "intronode",
+  "version": "1.0.0",
+  "description": "Primer paquete de Node",
+  "main": "index.js",
+  "scripts": {
+    "cowsay":"./node_modules/.bin/cowsay",
+    "cowthink":"./node_modules/.bin/cowthink"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Effv2/IntroNode.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Effv2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Effv2/IntroNode/issues"
+  },
+  "homepage": "https://github.com/Effv2/IntroNode#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
